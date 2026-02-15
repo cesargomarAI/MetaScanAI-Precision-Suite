@@ -1,0 +1,6 @@
+streamlit
+tensorflow
+pillow
+numpy
+fpdf2
+opencv-python-headless
